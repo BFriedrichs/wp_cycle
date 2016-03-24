@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WallpaperCycle
+GenericName=wp_cycle
+Comment=Cycles your wallpaper
+Exec=/home/bjoern/Code/wp_cycle/wp_cycle.py
+Terminal=False
+NoDisplay=true
+Type=Application
+X-GNOME-Autostart-enabled=true
